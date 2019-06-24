@@ -81,6 +81,7 @@ public class KiwiBotTesting extends OpMode
     @Override
     public void loop()
     {
+        //control robot and log values
     }
 
     /*
@@ -89,5 +90,6 @@ public class KiwiBotTesting extends OpMode
     @Override
     public void stop()
     {
+        //stop logging
     }
 }
